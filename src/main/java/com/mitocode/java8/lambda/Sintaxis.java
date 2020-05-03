@@ -22,7 +22,7 @@ public class Sintaxis {
             return x + y;
         };*/
 
-        return operacion.calcularPromedio(2, 3);
+        return operacion.calcular(2, 3);
     }
 
     public static void main(String[] args) {
